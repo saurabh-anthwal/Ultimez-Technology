@@ -1,0 +1,35 @@
+.table {
+  background-color: rgb(51, 49, 49);
+  width: 90%;
+  margin: 0 auto;
+  padding: 15px;
+}
+.table-heading {
+  padding: 2px;
+}
+
+.table-border {
+  border: 10px solid rgb(0, 0, 0);
+}
+.heading {
+  padding: 10px;
+}
+.table-heading {
+  font-weight: bold;
+  background-color: black;
+}
+.center {
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+}
+.between {
+  justify-content: space-between;
+}
+.table-data {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(40, 34, 34);
+}
+.main {
+}

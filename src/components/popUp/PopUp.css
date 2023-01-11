@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.heading {
+  color: white;
+  margin: 10px 0;
+}
+.popUpFlex {
+  height: 100vh;
+  width: 80vw;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.form {
+  background-color: rgb(40, 34, 34);
+
+  padding: 25px;
+  border-radius: 5px;
+}
+.flex {
+  display: flex;
+}
+
+.text-form {
+  /* width: 0%; */
+  width: 300px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  padding: 8px 16px;
+}
+
+.btn {
+  width: 100%;
+  background-color: rgba(40, 64, 203, 0.918);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
